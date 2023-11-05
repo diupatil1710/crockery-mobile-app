@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18845392732",
+    "project_id": "onlinecrockery-d4838",
+    "storage_bucket": "onlinecrockery-d4838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18845392732:android:0ddf5202e58f099bc6eb99",
+        "android_client_info": {
+          "package_name": "com.Divya.crockerys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvauD_PSe__qfNiMVAq_3vdFKOS_wKI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
